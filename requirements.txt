@@ -1,0 +1,12 @@
+fastapi[all]~=0.78.0
+uvicorn[standard]
+SQLAlchemy==1.4.35
+psycopg2-binary
+python-dotenv~=0.20.0
+mysql-connector-python
+pymysql
+cryptography
+passlib~=1.7.4
+bcrypt
+pandas~=1.4.2
+pydantic~=1.9.0
